@@ -1,2 +1,1 @@
 # LearningHub
-# LearningHub
